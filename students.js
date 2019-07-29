@@ -6,3 +6,7 @@ var Student = function(name, favoritSub, gpa) {
 };
 
 module.exports = Student;
+
+//what is your classroom number
+//how many students are in this class?
+//add the students to the class
